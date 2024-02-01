@@ -1,0 +1,1 @@
+If you open any .ipynb file and it is rapidly flickering then change fix it by zooming to >=110%, or <=90% works perfectly
